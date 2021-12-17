@@ -1,9 +1,9 @@
 // reużywalny komponent - wazna sciezka
 const Footer = () => {
     return ( 
-        <div>
+        <footer>
             Copyright 2021 Ninja List
-        </div>
+        </footer>
      );
 }
  
